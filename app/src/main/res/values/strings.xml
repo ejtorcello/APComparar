@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ARG Programa 4.0</string>
+    <string name="ingrese_texto_1">Ingrese Texto 1</string>
+    <string name="ingrese_texto_2">Ingrese Texto 2</string>
+    <string name="comparar">COMPARAR</string>
+    <string name="hecho_por_facundo_batallanes_arg_programa_4_0">Hecho por Facundo Batallanes Arg Programa 4.0</string>
+</resources>
